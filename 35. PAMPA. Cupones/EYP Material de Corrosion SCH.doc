@@ -1,0 +1,638 @@
+<!-- class: ariba.sourcing.rfxui.PrintRFXEncode -->
+<html>
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
+<style type="text/css">
+* { font-family: 'Arial Unicode MS'; }
+<!--
+table {
+border: 1px solid #666699;
+border-collapse: collapse;
+}
+
+td {
+color: #000000;
+font: normal 12px;
+border: 1px solid #666699;
+}
+
+th {
+text-align: left;
+border: 1px solid #666699;
+padding-left: 6px;
+padding-right: 6px;
+}
+
+th.fieldLabel {
+color: #000000;
+font: normal 12px;
+border: 1px solid #666699;
+background-color: #e9e9f1;
+}
+
+.sectionHead {
+color: #333366;
+font: bold 12px;
+}
+
+.tableHead {
+background-color: #dddddd;
+}
+
+.tableSubHead {
+color: #000000;
+}
+
+.fieldLabel {
+padding-left: 6px;
+padding-right: 6px;
+}
+
+.fieldValue {
+padding-left: 6px;
+padding-right: 6px;
+}
+
+.titleFieldValue {
+font-weight: bold;
+padding-left: 6px;
+padding-right: 6px;
+}
+-->
+</style>
+</head>
+<body>
+<br/>
+<br/>
+<br/>
+<!-- Introduction Section -->
+<table width="100%" border="0">
+<tr class="tableHead">
+<th>
+<span class="sectionHead">Introducción</span>
+</th>
+</tr>
+<tr>
+<td>
+<p>
+Esta es una versión para imprimir del evento. Contiene un resumen del evento y sus contenidos. La respuesta que se muestra a continuación es la última respuesta aceptada. Si no hay respuesta aceptada, se mostrará el último borrador de respuesta. Revise esto para comprobar si la información es correcta y márquelo como sea necesario.
+</p>
+
+<p>
+Este archivo se descargó en: [lunes, 11 marzo, 2024 a las 15:20]
+</p>
+
+</td>
+</tr>
+</table>
+
+<p>&nbsp;</p>
+
+<!-- Overview Section -->
+<table width="100%" border="0">
+<tr class="tableHead">
+<th colspan="2">
+<span class="sectionHead">Visión general</span>
+</th>
+</tr>
+
+<!-- class: ariba.sourcing.rfxui.PrintRFXGroupEncode -->
+
+
+
+
+
+<tr>
+<td align="left" class="fieldLabel">Propietario</td>
+<td width="75%" class="fieldValue">Oscar Enrique Roman</td>
+</tr>
+
+
+
+<tr>
+<td align="left" class="fieldLabel">Tipo de evento</td>
+<td width="75%" class="fieldValue">RFP</td>
+</tr>
+
+
+
+<tr>
+<td align="left" class="fieldLabel">Divisa</td>
+<td width="75%" class="fieldValue">Dólar de EE. UU.</td>
+</tr>
+
+
+
+<tr>
+<td align="left" class="fieldLabel">Mercancía</td>
+<td width="75%" class="fieldValue">Inhibidor de la corrosión de hierro B12164303</td>
+</tr>
+
+
+
+<tr>
+<td align="left" class="fieldLabel">Regiones</td>
+<td width="75%" class="fieldValue">AR0J Yac. Sierra Chata NET</td>
+</tr>
+
+
+
+</table>
+
+<p>&nbsp;</p>
+
+<!-- Team Members Section -->
+
+<!-- Graders Weight Section -->
+
+
+<!-- Timing Rules Section -->
+
+<table width="100%" border="0">
+<tr class="tableHead">
+<th colspan="2">
+<span class="sectionHead">Reglas de horario</span>
+</th>
+</tr>
+<!-- class: ariba.sourcing.rfxui.PrintRFXGroupEncode -->
+
+
+
+
+
+<tr>
+<td align="left" class="fieldLabel">Hora de publicación</td>
+<td width="75%" class="fieldValue">11/3/2024 14:59</td>
+</tr>
+
+
+
+<tr>
+<td align="left" class="fieldLabel">Fecha de vencimiento</td>
+<td width="75%" class="fieldValue">15/3/2024 16:00</td>
+</tr>
+
+
+<!-- class: ariba.sourcing.rfxui.PrintRFXGroupEncode -->
+
+
+
+
+</table>
+
+<p>&nbsp;</p>
+
+
+<!-- RFX Format Rules -->
+
+
+<!-- Envelope Rules -->
+
+
+<!-- Bidding Rules Section -->
+
+
+<!-- Currency Rules Section -->
+
+
+<!-- Initiator Actions Section -->
+
+<table width="100%" border="0">
+<tr class="tableHead">
+<th colspan="2">
+<span class="sectionHead">Acciones de iniciador</span>
+</th>
+</tr>
+<!-- class: ariba.sourcing.rfxui.PrintRFXGroupEncode -->
+
+
+
+
+
+
+</table>
+
+<p>&nbsp;</p>
+
+
+
+<!-- Market Feedback Section -->
+
+
+<!-- Message Board Section -->
+
+
+<!-- Include Bidder Agreement Rule -->
+
+
+<!-- Invited Participants Section -->
+
+
+<!-- Customized Messages Section -->
+
+
+<!-- Content Section -->
+
+<!-- class: ariba.sourcing.rfxui.PrintRFXContentEncode -->
+
+
+
+
+<table width="100%" border="0">
+<tr class="tableHead">
+<th colspan="2">
+<span class="sectionHead">Contenido</span>
+</th>
+</tr>
+<tr>
+
+<th align="left" class="fieldLabel">Nombre</th>
+
+<th align="left" class="fieldLabel">Valor</th>
+
+</tr>
+
+<tr>
+
+
+<td style="width:40%" align="left" class="titleFieldValue">1 Introducción</td>
+
+
+
+
+
+<td>&nbsp;</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">
+<font size="2" style="text-align: left; color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 13.33px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; word-spacing: 0px; white-space: normal; orphans: 2; -webkit-text-stroke-width: 0px;;white-space: normal;"><font face="arial,helvetica,sans-serif" size="3"><font size="2">Pampa Energía S.A. lo invita a participar del siguiente CONCURSO PRIVADO DE PRECIOS.</font> </font> <font face="arial,helvetica,sans-serif">Tenga a bien leer cada una de las secciones para poder participar. </font> <font face="arial,helvetica,sans-serif">Instructivo para poder participar del evento: Si esta es su primera vez, vea el video adjunto para entender cómo participar de este evento correctamente. </font> </font><br style="text-align: left; color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; word-spacing: 0px; white-space: normal; orphans: 2; -webkit-text-stroke-width: 0px;;white-space: normal;"><font face="arial,helvetica,sans-serif" style="text-align: left; color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial,helvetica,sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; word-spacing: 0px; white-space: normal; orphans: 2; -webkit-text-stroke-width: 0px;;white-space: normal;"><font size="2">LINK #1: <span style="line-height: 107%; font-family: &quot;Calibri&quot;,sans-serif; font-size: 11pt;"><a target="_blank" href="https://uex.ariba.com/auc/node/285085?a_lang=es"><font color="#0563c1">https://uex.ariba.com/auc/node/285085?a_lang=es</font></a></span></font></font><br style="text-align: left; color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; word-spacing: 0px; white-space: normal; orphans: 2; -webkit-text-stroke-width: 0px;;white-space: normal;"><font face="arial,helvetica,sans-serif" size="3" style="text-align: left; color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial,helvetica,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; word-spacing: 0px; white-space: normal; orphans: 2; -webkit-text-stroke-width: 0px;;white-space: normal;"><font size="2">LINK #2: <span style="line-height: 107%; font-family: &quot;Calibri&quot;,sans-serif; font-size: 11pt;"><a target="_blank" href="https://uex.ariba.com/auc/node/285073?a_lang=es"><font color="#0563c1">https://uex.ariba.com/auc/node/285073?a_lang=es</font></a></span></font></font><br style="text-align: left; color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; word-spacing: 0px; white-space: normal; orphans: 2; -webkit-text-stroke-width: 0px;;white-space: normal;">
+</td>
+
+<td>&nbsp;</td>
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%" align="left" class="titleFieldValue">2 Propuesta Económica (Sobre)</td>
+
+
+
+
+
+<td>&nbsp;</td>
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%" align="left" class="titleFieldValue">2.2 <span style="display: inline !important; float: none; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-family: arial,helvetica,sans-serif; font-size: 13.33px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;;white-space: normal;">Planilla de Cotización</span></td>
+
+
+
+
+<td align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#4152283701">
+
+</a>
+
+</td>
+
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%" align="left" class="titleFieldValue">2.3 Cupon corros. retractable 1500#</td>
+
+
+
+
+
+<td>&nbsp;</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">
+Cupon de corrosion; modelo retractable; presion hasta1500 psi; Cupon de corrosion AC 1080, aislador de PTFE,prepesado c/aislador.; tp ROHRBACK C; CI RS G 101800-2-0-1; HD; 6210portacup.corr.pdf;; Sucedaneo
+</td>
+
+<td>&nbsp;</td>
+
+</tr>
+
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Precio</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#PRICE">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Cantidad</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#QUANTITY">
+84 Unidad
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Subtotal</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#EXTENDEDPRICE">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Coste total</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#TOTALCOST">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">ID de pieza de proveedor</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#SUPPLIERPARTID">
+1075288
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Plazo</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#LEADTIME">
+0
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Fecha de entrega solicitada</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#REQUESTDELIVERYDATE">
+mar, 23 abr, 2024
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Ship To</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#GITAADDRESSIFZ000026">
+8300 Neuquen (Neuquén)
+Argentina
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Comentario</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#COMMENT">
+Entregar: Transportes Don Pedro, Av. Vergara 6600, Hurlingham, Buenos Aires
+
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Condiciones de expedición</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#SHIPPINGTERMS">
+.
+</a>
+</td>
+
+</tr>
+
+
+<tr>
+
+
+<td style="width:40%" align="left" class="titleFieldValue">2.4 Portacupon retractil 6210HT-30-1 COSASCO</td>
+
+
+
+
+
+<td>&nbsp;</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">
+Portacupon retractil, presion hasta 1500 Psi y cupones de 1/16" TH x1/2" W x 3" LG, con abrazadera de seguridad.Marca: COSASCO; N/P: 6210HT-30-1.-
+</td>
+
+<td>&nbsp;</td>
+
+</tr>
+
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Precio</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#PRICE">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Cantidad</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#QUANTITY">
+21 Unidad
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Subtotal</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#EXTENDEDPRICE">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Coste total</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#TOTALCOST">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">ID de pieza de proveedor</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#SUPPLIERPARTID">
+1128795
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Plazo</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#LEADTIME">
+0
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Fecha de entrega solicitada</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#REQUESTDELIVERYDATE">
+mar, 23 abr, 2024
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Ship To</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#GITAADDRESSIFZ000026">
+8300 Neuquen (Neuquén)
+Argentina
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Comentario</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#COMMENT">
+Entregar: Transportes Don Pedro, Av. Vergara 6600, Hurlingham, Buenos Aires
+
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Condiciones de expedición</td>
+
+
+
+<td width="20%" align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#SHIPPINGTERMS">
+.
+</a>
+</td>
+
+</tr>
+
+
+</table>
+
+<p>&nbsp;</p>
+
+
+<!-- Scoring Section -->
+
+</body>
+</html>
