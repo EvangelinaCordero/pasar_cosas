@@ -1,0 +1,11 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">UM</th><th scope="col">Q</th><th scope="col">Descripci&#243;n</th><th scope="col">Cantidad</th><th scope="col">Precio/UM</th><th scope="col">Fecha Entrega</th><th scope="col">Moneda</th><th scope="col">Cometario</th>
+		</tr><tr>
+			<td>Litros</td><td>3000</td><td>BACTERICIDAS - Debe ser del tipo THPS o THPC de concentraci&#243;n superior al 75%. - Cantidad estimada mensual - (Completar planilla adjunta)</td><td>3000</td><td>0</td><td>2024-04-08</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>Litros</td><td>2000</td><td>GLUTARALDEHIDO - Debe ser del tipo Glutaraldeh&#237;do de concentraci&#243;n superior al 50%.- Cantidad estimada mensual - (Completar planilla adjunta)</td><td>2000</td><td>0</td><td>2024-04-08</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr>
+	</table>
+</div>
