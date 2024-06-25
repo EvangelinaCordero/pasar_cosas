@@ -1,0 +1,45 @@
+<!DOCTYPE html><html lang=es><head><script async src="https://www.googletagmanager.com/gtag/js?id=UA-125344028-6"></script><script>window.dataLayer = window.dataLayer || []
+    function gtag() {
+      dataLayer.push(arguments)
+    }
+    gtag('js', new Date())
+    gtag('config', 'UA-125344028-6')
+    gtag('set', { user_id: 'USER_ID' }) // Establezca el ID de usuario mediante el user_id con el que haya iniciado sesión.</script><script>; (function (w, d, s, l, i) {
+        w[l] = w[l] || []
+        w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' })
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != 'dataLayer' ? '&l=' + l : ''
+        j.async = true
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl
+        f.parentNode.insertBefore(j, f)
+      })(window, document, 'script', 'dataLayer', 'GTM-WR8W27N')</script><meta charset=utf-8><link rel=icon href=favicon.ico type=image/x-icon><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=description content="TuRecibo.com es el portal más completo para la despapelización de todos los procesos del área de Recursos Humanos. OnBoarding y Recibos Digitales, Gestión de licencias y mucho más"><meta name=viewport content="user-scalable=no,width=device-width,initial-scale=1,maximum-scale=1,shrink-to-fit=no"><title>Tu Recibo</title><link rel=stylesheet href="https://fonts.googleapis.com/css?family=Material+Icons"><link rel=stylesheet href=/e/assets/fonts/style.css type=text/css><link rel=stylesheet href=https://unpkg.com/vue-multiselect@2.1.0/dist/vue-multiselect.min.css><script src=/e/dwt-resources/dynamsoft.webtwain.min.js></script><script src=https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js></script><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WR8W27N" height=0 width=0 style=display:none;visibility:hidden></iframe></noscript><script>WebFont.load({
+      google: {
+        families: [
+          'Poppins:300,400,500,600,700',
+          'Roboto:300,400,500,600,700'
+        ]
+      }
+    })</script><script>; (function (h, o, t, j, a, r) {
+        h.hj =
+          h.hj ||
+          function () {
+            ; (h.hj.q = h.hj.q || []).push(arguments)
+          }
+        h._hjSettings = { hjid: 1603117, hjsv: 6 }
+        a = o.getElementsByTagName('head')[0]
+        r = o.createElement('script')
+        r.async = 1
+        r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv
+        a.appendChild(r)
+      })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=')</script><script>window.addEventListener('companyNameSet', function (event) {
+      clarity('set', 'NOMBRE_EMPRESA', event.detail);
+    });
+  
+    (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function() {
+        (c[a].q=c[a].q||[]).push(arguments);
+      };
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", 'hzb75qr5dc');</script><link href=/e/css/chunk-0deaeeca.1c1515b3.css rel=prefetch><link href=/e/css/chunk-1c099096.6e87277a.css rel=prefetch><link href=/e/css/chunk-269567a6.e2bf5d58.css rel=prefetch><link href=/e/css/chunk-3313841c.8c28baec.css rel=prefetch><link href=/e/css/chunk-3672d223.72246d67.css rel=prefetch><link href=/e/css/chunk-5a204b72.559bd1fe.css rel=prefetch><link href=/e/css/chunk-5ca054fd.a8d9bcdb.css rel=prefetch><link href=/e/css/chunk-7e842cf8.53f5ce69.css rel=prefetch><link href=/e/css/chunk-7f6cea5c.adc4448a.css rel=prefetch><link href=/e/css/chunk-840f69ac.8844f09f.css rel=prefetch><link href=/e/css/chunk-e13e5250.07c03ad9.css rel=prefetch><link href=/e/js/chunk-0deaeeca.646513ce.js rel=prefetch><link href=/e/js/chunk-1c099096.0cbdde49.js rel=prefetch><link href=/e/js/chunk-269567a6.2f348546.js rel=prefetch><link href=/e/js/chunk-2d0b8e1a.0d308032.js rel=prefetch><link href=/e/js/chunk-2d0bd395.7ae9970f.js rel=prefetch><link href=/e/js/chunk-2d208da0.f5699ca6.js rel=prefetch><link href=/e/js/chunk-2d210973.e0ff9535.js rel=prefetch><link href=/e/js/chunk-2d237783.b33b72db.js rel=prefetch><link href=/e/js/chunk-3313841c.62a74b61.js rel=prefetch><link href=/e/js/chunk-3672d223.bf9b325e.js rel=prefetch><link href=/e/js/chunk-5a204b72.17cf1973.js rel=prefetch><link href=/e/js/chunk-5ca054fd.34c07eec.js rel=prefetch><link href=/e/js/chunk-7e842cf8.54f40b51.js rel=prefetch><link href=/e/js/chunk-7f6cea5c.8e1b8462.js rel=prefetch><link href=/e/js/chunk-840f69ac.511082f6.js rel=prefetch><link href=/e/js/chunk-a994451e.b8575dba.js rel=prefetch><link href=/e/js/chunk-e13e5250.2e1ab401.js rel=prefetch><link href=/e/css/app.07021ea8.css rel=preload as=style><link href=/e/css/chunk-vendors.2e8e42d0.css rel=preload as=style><link href=/e/js/app.6041280d.js rel=preload as=script><link href=/e/js/chunk-vendors.b18d678e.js rel=preload as=script><link href=/e/css/chunk-vendors.2e8e42d0.css rel=stylesheet><link href=/e/css/app.07021ea8.css rel=stylesheet></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WR8W27N" height=0 width=0 style=display:none;visibility:hidden></iframe></noscript><div id=app></div><a href=https://u3gsdidl17.execute-api.eu-west-1.amazonaws.com/ProdStage rel=nofollow style="display: none" aria-hidden=true>PasswordAdmin</a><script src=/e/js/chunk-vendors.b18d678e.js></script><script src=/e/js/app.6041280d.js></script></body></html>
